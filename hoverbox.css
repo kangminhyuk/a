@@ -129,4 +129,9 @@ p a:hover
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<title>Love Love Love</title>
 	<link rel="stylesheet" href='hoverbox.css' type="text/css" media="screen, projection" />
+p id {
+	color:green
+	font-size:20
+	font-family:Papyrus
+	}
 </head>
