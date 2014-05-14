@@ -44,16 +44,18 @@ h1
 
 p
 {
-	color: blue; 
+	color: LightSalmon; 
 	clear: both;
-	font: 10px Verdana, sans-serif;
+	font: 35px Noteworthy, sans-serif;
 	padding: 10px 0;
 	text-align: center;
 }
 
 p a
 {
-	color: blue; 
+	font-family: Hobo Std;
+	font-size:30 px;
+	color: SpringGreen; 
 	background: inherit;
 }
 
