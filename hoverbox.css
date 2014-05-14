@@ -44,6 +44,7 @@ h1
 
 p
 {
+	color: blue; 
 	clear: both;
 	font: 10px Verdana, sans-serif;
 	padding: 10px 0;
@@ -52,8 +53,8 @@ p
 
 p a
 {
+	color: blue; 
 	background: inherit;
-	color: #777;
 }
 
 p a:hover
@@ -129,9 +130,9 @@ p a:hover
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<title>Love Love Love</title>
 	<link rel="stylesheet" href='hoverbox.css' type="text/css" media="screen, projection" />
-#id {
-	color:blue
-	font-size:23
-	font-family:Papyrus
+#footer {
+	color:blue;
+	font-size:50;
+	font-family:Papyrus;
 	}
 </head>
