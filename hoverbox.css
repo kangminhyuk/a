@@ -46,7 +46,7 @@ p
 {
 	color: LightSalmon; 
 	clear: both;
-	font: 35px Noteworthy, sans-serif;
+	font: 37px Noteworthy, sans-serif;
 	padding: 10px 0;
 	text-align: center;
 }
@@ -54,7 +54,7 @@ p
 p a
 {
 	font-family: Hobo Std;
-	font-size:30 px;
+	font-size:33 px;
 	color: SpringGreen; 
 	background: inherit;
 }
